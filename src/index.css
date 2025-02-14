@@ -7,6 +7,13 @@
 
 /*body Formatting*/
 body {
-    background-color: #0075a2;
+    background-color: red;
+}
+
+/*Create smooth scrolling behavior*/
+html {
+    scroll-behavior: smooth;
 }
 /***********************************End of General Formatting***********************************/
+
+/***********************************Container Formatting***********************************/
